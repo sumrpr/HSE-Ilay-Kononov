@@ -1,0 +1,11 @@
+a = 1
+print(a)
+b = ('Во имя света!')
+print(b)
+v = int(input())
+l = int(input())
+d = str(input())
+k = str(input())
+print(v+l)
+print(d+k)
+print(id(a))
