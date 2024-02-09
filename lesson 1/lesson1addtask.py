@@ -12,4 +12,4 @@ parties = [
     {'name':str(input('Name of the party: ')), 'status':str(input('Status of the party: ')), 'inn':str(input('INN of the party: '))},
     {'name':str(input('Name of the party: ')), 'status':str(input('Status of the party: ')), 'inn':str(input('INN of the party: '))}
 ]
-print(parties[0])
+print(parties)
