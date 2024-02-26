@@ -39,7 +39,6 @@ print(f' Чтобы решить факториал напишите "Факто
 functype = str(input())
 
 if functype == "Факториал":
-    print()
     print(factorial())
 if functype == "Максимум":
     print(maxnum())
